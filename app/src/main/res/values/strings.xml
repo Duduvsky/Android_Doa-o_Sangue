@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Doacao_Sangue</string>
+    <string name="order_user">Informe seu tipo sanguíneo</string>
+    <string name="search">Pesquisar</string>
+</resources>
