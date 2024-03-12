@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         EditText etT = findViewById(R.id.idT);
         TextView etR = findViewById(R.id.idR);
 
-        String t = etT.getText().toString();
+        String t = etT.getText().toString().toUpperCase();
 
         try {
             Integer.parseInt(t);
